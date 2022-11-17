@@ -1,0 +1,12 @@
+text1 = "welcome to the jungle"
+print(text1.find("e"))
+print("___________________________")
+print(text1.find("e", 3, 10))
+print("___________________________")
+print(text1.count("e"))
+print("___________________________")
+print(text1.index("e"))
+print("___________________________")
+print(text1.find("a"))
+print("___________________________")
+print(text1.index("a"))
